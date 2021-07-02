@@ -1,1 +1,6 @@
-# ScriptByte-Development.github.io
+# Welcome to ScriptByte(Development)!
+
+Unfortunately our website isn't ready quite yet.
+Keep checking back for updates.
+
+- ScriptByte(Development) Team
